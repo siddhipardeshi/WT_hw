@@ -1,2 +1,2 @@
 # WT_hw
-web technology hw
+web technology mini projects
